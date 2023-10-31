@@ -1,0 +1,36 @@
+.par1{
+    text-align: justify;
+    padding: 30px;
+    font-size: large;
+}
+h1{
+    text-align: center;
+    padding: 30px;
+}
+.solitaria{
+    width: 400px;
+    padding: 20px;
+
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+h3{
+    padding: 20px;
+    text-align: center;
+}
+.curiosidades{
+    padding: 35px;
+    font-size: large;
+}
+.p3{
+    text-align: center;
+    padding: 30px;
+    font-size: large;
+}
+.container{
+    display: flex;
+    align-items: center;
+}

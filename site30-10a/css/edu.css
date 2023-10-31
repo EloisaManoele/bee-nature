@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    padding: 40px;
+}
+.par{
+    text-align: justify;
+    font-size: large;
+    padding-right: 35px;
+}
+img{
+    float: left;
+    padding: 30px;
+}
+.link1{
+    padding: 10px;
+    font-size: large;
+    text-align: center;
+  }
+.eduambiental2{
+    float:right;
+    padding: 30px;
+    width: 400px;
+}
+.par2{
+    text-align: justify;
+    font-size: large;
+    padding: 50px;
+}

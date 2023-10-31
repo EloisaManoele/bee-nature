@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    padding: 30px;
+}
+.intro{
+    text-align: justify;
+    padding: 30px;
+}
+.lista1{
+    text-align: center;
+    padding: 30px;
+    font-weight: bold;
+}
+.lista2{
+    text-align: center;
+    padding: 30px;
+}
+h2{
+    text-align: center;
+    padding: 30px;
+}
+.p3{
+    text-align: center;
+    padding: 30px;
+    font-size: large;
+}
+.container{
+    display: flex;
+    align-items: center;
+}
